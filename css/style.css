@@ -1,0 +1,41 @@
+table {
+  color:green;
+  border-radius: 6px;
+  border: 2px solid red;
+}
+
+[href="#ideveloper"] {
+  color:purple;
+}
+
+[colspan="2"] {
+  color:orange;
+}
+
+.privet {
+  color:black;
+}
+
+#ideveloper {
+  font-weight: bold;
+}
+
+html tr {
+  color: brown;
+}
+
+.list > li {
+  color:purple;
+}
+
+.font-size-md {
+  font-size: 18px;
+}
+
+.font-size-md.color-red {
+  color:red;
+}
+
+.font-size-md.color-gray {
+  color:gray;
+}
